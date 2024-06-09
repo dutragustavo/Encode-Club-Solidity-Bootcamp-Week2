@@ -35,7 +35,7 @@ npx ts-node --files ./scripts/CastVote.ts "CONTRACT_ADDRESS" 0
 
 Giving rights to vote for some other contract (needs to be the chairperson):
 ```bash
-npx ts-node --files ./scripts/GiveVoteRights.ts "CONTRACT_ADDRESS", "VOTER_ADDRESS"
+npx ts-node --files ./scripts/GiveVoteRights.ts "CONTRACT_ADDRESS" "VOTER_ADDRESS"
 ```
 
 Delegating your vote  for some other contract:
