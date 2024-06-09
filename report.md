@@ -64,4 +64,6 @@ Now let's try get the winner proposal from the contract, it should be the one wi
 ```solidity
 npx ts-node --files ./scripts/getWinnerProposal.ts 0xe4a3dd5a5750010ee34064faac7828802b160d5f
 ```
-``
+
+And here are the results querying the name of the proposal and vote count. 
+![image](https://github.com/dutragustavo/Encode-Club-Solidity-Bootcamp-Week2/assets/8991081/006837eb-39f1-43ef-950b-d603e33e9eb6)
