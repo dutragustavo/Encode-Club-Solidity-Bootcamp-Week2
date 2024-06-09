@@ -48,3 +48,9 @@ Querying the winner proposal:
 npx ts-node --files ./scripts/getWinnerProposal.ts "CONTRACT_ADDRESS"
 ```
 
+## Contributors
+This project was made by the Team 1 of the Encode Club Solidity Bootcamp: 
+- [Rubikkz](https://github.com/frosimanuel)
+- [dutra](https://github.com/dutragustavo)
+- [Huelder](https://github.com/hueldera)
+- [Juliano Sales](https://github.com/tzdesing)
